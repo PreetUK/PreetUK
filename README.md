@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Prit Ukey
 
-🚀 Aspiring **Java Full Stack Developer** passionate about building scalable web applications and learning modern technologies.  
-I enjoy problem-solving, backend development, and creating clean user interfaces.
+I'm a passionate developer exploring the world of **Full-Stack Development** 🚀  
+I love building projects, learning new technologies, and solving problems.
 
 ---
 
